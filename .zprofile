@@ -1,0 +1,1 @@
+/home/teodorgly/.zprezto/runcoms/zprofile
